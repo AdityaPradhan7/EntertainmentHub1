@@ -8,7 +8,7 @@ Entertainment Hub is a React JS-based website that allows users to explore and d
 
 ## 📦 Syncloop Package Link
 
-[Syncloop Package](https://github.com/AdityaPradhan7/EntertainmentHub-Syncloop/blob/main/Syncloop%20Package.zip)
+[Syncloop Package](https://github.com/AdityaPradhan7/EntertainmentHub1/blob/main/Syncloop%20Package.zip)
 
 ## ✨ Features
 
