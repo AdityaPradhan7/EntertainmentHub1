@@ -4,7 +4,7 @@ Entertainment Hub is a React JS-based website that allows users to explore and d
 
 ## 🌐 Live Website Link
 
-[Entertainment Hub Live Website](https://entertainment-hub-syncloop.vercel.app/)
+[Entertainment Hub Live Website](https://entertainment-hub1-dusky.vercel.app/)
 
 ## 📦 Syncloop Package Link
 
