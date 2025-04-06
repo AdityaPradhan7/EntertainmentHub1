@@ -1,0 +1,46 @@
+.landing-page {
+  overflow: hidden;
+  text-align: center;
+  padding: 130px;
+  color: #f9f9f9;
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: first baseline;
+  align-items: center;
+  position: relative; /* Ensure content is above the canvas */
+  z-index: 1; /* Ensure content is above the canvas */
+}
+
+.landing-page h1 {
+  
+  font-size: 4rem;
+  margin: 0 0 40px 0; /* Add margin only at the bottom */
+  cursor:text;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap; /* Allow links to wrap on smaller screens */
+}
+h3{
+  padding-bottom: 25px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #f9f9f9;
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  border: 2px solid #f9f9f9;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-link:hover {
+  background-color: #f9f9f9;
+  color: #092635;
+}
