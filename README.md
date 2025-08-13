@@ -6,10 +6,6 @@ Entertainment Hub is a React JS-based website that allows users to explore and d
 
 [Entertainment Hub Live Website](https://entertainment-hub1-dusky.vercel.app/)
 
-## 📦 Syncloop Package Link
-
-[Syncloop Package](https://github.com/AdityaPradhan7/EntertainmentHub1/blob/main/Syncloop%20Package.zip)
-
 ## ✨ Features
 
 ### 🎬 Movies Hub
@@ -49,3 +45,7 @@ Entertainment Hub is a React JS-based website that allows users to explore and d
 - **APIs**: TMDB API, iTunes API, Open Library API
 - **Styling**: CSS
 - **HTTP Client**: Axios
+
+## 📦 Syncloop Package Link
+
+[Syncloop Package](https://github.com/AdityaPradhan7/EntertainmentHub1/blob/main/Syncloop%20Package.zip)
